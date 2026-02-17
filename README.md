@@ -1,7 +1,7 @@
 # Smart Diet Planner (MSc Project)
 
 This AI-powered Smart Diet Planner was developed as part of my MSc in
-Data Analytics.
+Artficial Intelligence.
 
 The system generates personalised diet recommendations based on
 user profiles, dietary goals, and nutritional data.
