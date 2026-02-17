@@ -1,3 +1,18 @@
+## 📸 Demo Screenshots
+
+### User Signup & Navigation
+![Signup](screenshots/ss1.png)
+
+### Diet Planner – User Inputs
+![Diet Input](screenshots/ss8.png)
+
+### Personalized Diet Plan Output
+![Diet Result](screenshots/ss4.png)
+
+### AI Recipe Generator
+![Recipe Generator](screenshots/ss7.png)
+
+
 # Smart Diet Planner (MSc Project)
 
 This AI-powered Smart Diet Planner was developed as part of my MSc in
